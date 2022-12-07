@@ -1,4 +1,4 @@
-\[!\[Header\](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://diego40g.github.io/myProfile/)
+<!-- \[!\[Header\](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://diego40g.github.io/myProfile/) -->
 
 # Hi, folks! 👋 My name is Diego. 
 I am a Software Developer
