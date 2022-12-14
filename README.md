@@ -41,7 +41,7 @@ If you want to talk about, technology, DevOps or DevOps o How to do some guitar 
   <img alt="Blazor" src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-square&logo=blazor&logoColor=white" />
   <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-square&logo=.net&logoColor=white" />
 </p>
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+<!-- ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a) -->
 
 # Interesting
 |                          |              |
