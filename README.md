@@ -54,13 +54,15 @@ If you want to talk about, technology, DevOps or DevOps o How to do some guitar 
 # GitHub Stats
 
 <a href="https://github.com/diego40g/diego40g">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego40g&layout=compact&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" width=50% alt="Diego's Most used languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego40g&layout=compact&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" width="49%" height="120" alt="Diego's Most used languages"/>
 </a>
 <a href="https://github.com/diego40g/diego40g">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=diego40g&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="50%" alt="Diego's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=diego40g&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="49%" height="120" alt="Diego's GitHub Stats" />
 </a>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diego40g&theme=dark" alt="Diego's Streak stats" >
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diego40g&theme=dark" alt="Diego's Streak stats" >
+</p>
 
 # 📫 How to reach me: 
 <a href="mailto:diegopaznaula@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-square&logo=gmail&logoColor=white)</a> 
